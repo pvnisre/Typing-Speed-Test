@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.bg-container {
+    background-image: linear-gradient(to right, #efe7fa, #ceaefc);
+    background-size: cover;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 50px auto;
+    max-width: 600px;
+}
+
+.type-test-heading {
+    color: #690cb0;
+    font-size: 55px;
+    font-family: 'sans-serif';
+    font-weight: 900;
+    text-align: center;
+}
+
+.text-para {
+    color: #3e4c59;
+    text-align: center;
+    font-size: 18px;
+}
+
+.img-style {
+    width: 55px;
+    height: 55px;
+    margin: 10px;
+}
+
+.count-down-style {
+    font-size: 25px;
+    color: #690cb0;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.quote-style {
+    font-size: 20px;
+    font-weight: 600;
+    color: #3e4c59;
+    text-align: center;
+}
+
+.text-container {
+    background-color: #f2ebfe;
+    margin: 20px 0;
+    border-radius: 5px;
+    padding: 30px;
+    text-align: center;
+}
+
+textarea {
+    width: 100%;
+    border: 1px solid #131014;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.btn {
+    font-weight: 500;
+    margin: 5px;
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    border: none;
+    color: white;
+}
+
+.reset-btn {
+    background-color: #690cb0;
+    border: none;
+    color: white;
+}
+
